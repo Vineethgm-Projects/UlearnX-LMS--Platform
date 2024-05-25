@@ -51,7 +51,7 @@ const CreatePage = () => {
                     Name Your Course
                 </h1>
                 <p className="text-sm text-slate-600">
-                    What would you like to name your course? Don't worry,you can change   it later if needed!Let's get started by naming your course!
+                    What would you like to name your course? Dont worry,you can change   it later if needed!Let's get started by naming your course!
                 </p>
                 <Form {...form}>
                     <form 
