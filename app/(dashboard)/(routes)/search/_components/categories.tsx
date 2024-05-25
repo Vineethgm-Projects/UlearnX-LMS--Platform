@@ -1,9 +1,9 @@
 "use client"
 
 import { Category } from "@prisma/client"
-import { FaLaptopCode, FaMusic, FaDumbbell, FaCamera, FaBook, FaPalette, FaUtensils, FaGlobe, FaFlask, FaMicrochip, FaCode, FaBrain, FaShieldAlt, FaCloud, FaWifi, FaCubes, FaRobot, FaMobileAlt, FaTools, FaCodeBranch } from 'react-icons/fa';
-import { IoIosFitness } from 'react-icons/io';
-import { FcMusic } from 'react-icons/fc';
+import { FaLaptopCode, FaMusic, FaDumbbell, FaCamera, FaBook, FaPalette, FaUtensils, FaGlobe, FaFlask, FaMicrochip, FaCode, FaBrain, FaShieldAlt, FaCloud, FaWifi, FaCubes, FaRobot, FaMobileAlt, FaTools, FaCodeBranch } from "react-icons/fa";
+import { IoIosFitness } from "react-icons/io";
+import { FcMusic } from "react-icons/fc";
 import { IconType } from "react-icons/lib";
 import { CategoryItem } from "./category-item";
 
